@@ -1,2 +1,2 @@
 # Projeto-Strata
-Projeto Bootstrap 3
+Pode ser acessado pelo link: https://brenodovale.github.io/Projeto-Strata/
